@@ -5,11 +5,7 @@ These course addresses the exploitation of data to extract knowledge by means of
 
 ## slides
 This folder contains the slides used in the sessions:
-* [Lecture 1: Data mining and visualisation](https://github.com/d-tomas/transform4europe/blob/main/slides/lecture_01.pdf)
-* Lecture 2 (comming soon)
-* Lecture 3 (comming soon)
-* Lecture 4 (comming soon)
-* Lecture 5 (comming soon)
+* [Data mining and visualisation](https://github.com/d-tomas/transform4europe/blob/main/slides/data_mining_and_visualisation.pdf)
 
 ## datasets
 This folder contains the datasets used in the sessions:
