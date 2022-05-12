@@ -1,5 +1,7 @@
 # From data to knowledge
-Slides, notebooks and datasets for the course "From data to knowledge" in the Transform4Europe programme
+Slides, notebooks and datasets for the course "From data to knowledge" celebrated in the [Transform4Europe](http://www.transform4europe.eu/) programme.
+
+These course addresses the exploitation of data to extract knowledge by means of data mining techniques. The lectures introduce the concepts of data mining, exploratory data analysis (including different visualisation techniques) and machine learning. In addition to the analysis of structured data by means of data mining techniques, the course also covers different approaches to analyse and extract knowledge from textual information (i.e., text mining).
 
 ## slides
 This folder contains the slides used in the sessions:
