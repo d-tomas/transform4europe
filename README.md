@@ -11,11 +11,7 @@ This folder contains the slides used in the sessions:
 
 ## datasets
 This folder contains the datasets used in the sessions:
-* [News article](https://github.com/d-tomas/text-mining/blob/main/datasets/news.txt)
-* [Scientific paper](https://github.com/d-tomas/text-mining/blob/main/datasets/paper.txt)
-* [RePEC subset](https://github.com/d-tomas/text-mining/blob/main/datasets/repec_s.csv)
-* [Opinions on cell phones](https://github.com/d-tomas/text-mining/blob/main/datasets/cell_phones.csv)
-* [Iris data set](https://github.com/d-tomas/text-mining/blob/main/datasets/iris.csv)
+* [Video game sales](https://github.com/d-tomas/transform4europe/blob/main/datasets/video_game_sales.csv)
 
 ## notebooks
 This folder contains the *Jupyter notebooks* used in the sessions:
