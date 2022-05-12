@@ -3,11 +3,11 @@ Slides, notebooks and datasets for the course "From data to knowledge" in the Tr
 
 ## slides
 This folder contains the slides used in the sessions:
-* [Lesson 1](https://github.com/d-tomas/transform4europe/blob/main/slides/lesson_01.pdf)
-* [Lesson 2](https://github.com/d-tomas/transform4europe/blob/main/slides/lesson_02.pdf)
-* [Lesson 3](https://github.com/d-tomas/transform4europe/blob/main/slides/lesson_03.pdf)
-* [Lesson 4](https://github.com/d-tomas/transform4europe/blob/main/slides/lesson_04.pdf)
-* [Lesson 5](https://github.com/d-tomas/transform4europe/blob/main/slides/lesson_05.pdf)
+* [Lecture 1: Data mining and visualisation](https://github.com/d-tomas/transform4europe/blob/main/slides/lecture_01.pdf)
+* Lecture 2 (comming soon)
+* Lecture 3 (comming soon)
+* Lecture 4 (comming soon)
+* Lecture 5 (comming soon)
 
 ## datasets
 This folder contains the datasets used in the sessions:
@@ -19,8 +19,4 @@ This folder contains the datasets used in the sessions:
 
 ## notebooks
 This folder contains the *Jupyter notebooks* used in the sessions:
-* [Text Mining basics](https://github.com/d-tomas/text-mining/blob/main/notebooks/lecture_1.ipynb)
-* [Document representation](https://github.com/d-tomas/text-mining/blob/main/notebooks/lecture_2.ipynb)
-* [Supervised learning](https://github.com/d-tomas/text-mining/blob/main/notebooks/lecture_3.ipynb)
-* [Unsupervised learning](https://github.com/d-tomas/text-mining/blob/main/notebooks/lecture_4.ipynb)
-
+* [Hello, world!](https://github.com/d-tomas/transform4europe/blob/main/notebooks/hello_world.ipynb)
