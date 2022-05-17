@@ -16,6 +16,7 @@ This folder contains the datasets used in the sessions:
 * [IMDB films](https://github.com/d-tomas/transform4europe/blob/main/datasets/imdb.tgz)
 * [Banknote authentication](https://github.com/d-tomas/transform4europe/blob/main/datasets/banknote_authentication.csv)
 * [House prices](https://github.com/d-tomas/transform4europe/blob/main/datasets/houses.csv)
+* [Iris](https://github.com/d-tomas/transform4europe/blob/main/datasets/iris.csv)
 
 ## notebooks
 This folder contains the *Jupyter notebooks* used in the sessions:
@@ -24,3 +25,4 @@ This folder contains the *Jupyter notebooks* used in the sessions:
 * [Visualisation](https://github.com/d-tomas/transform4europe/blob/main/notebooks/visualisation.ipynb)
 * [Exercise 1: Descriptive statistics and visualisation](https://github.com/d-tomas/transform4europe/blob/main/notebooks/exercise_1.ipynb)
 * [Supervised learning](https://github.com/d-tomas/transform4europe/blob/main/notebooks/supervised_learning.ipynb)
+* [Unsupervised learning](https://github.com/d-tomas/transform4europe/blob/main/notebooks/unsupervised_learning.ipynb)
