@@ -16,6 +16,7 @@ This folder contains the datasets used in the sessions:
 * [IMDB films](https://github.com/d-tomas/transform4europe/blob/main/datasets/imdb.tgz)
 * [Banknote authentication](https://github.com/d-tomas/transform4europe/blob/main/datasets/banknote_authentication.csv)
 * [House prices](https://github.com/d-tomas/transform4europe/blob/main/datasets/houses.csv)
+* [Divorce predictors](https://github.com/d-tomas/transform4europe/blob/main/datasets/divorce_predictors.csv)
 * [Iris](https://github.com/d-tomas/transform4europe/blob/main/datasets/iris.csv)
 
 ## notebooks
