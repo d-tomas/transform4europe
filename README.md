@@ -19,6 +19,7 @@ This folder contains the datasets used in the sessions:
 * [House prices](https://github.com/d-tomas/transform4europe/blob/main/datasets/houses.csv)
 * [Divorce predictors](https://github.com/d-tomas/transform4europe/blob/main/datasets/divorce_predictors.csv)
 * [Iris](https://github.com/d-tomas/transform4europe/blob/main/datasets/iris.csv)
+* [Text file](https://github.com/d-tomas/transform4europe/blob/main/datasets/news.txt)
 
 ## notebooks
 This folder contains the *Jupyter notebooks* used in the sessions:
