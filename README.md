@@ -9,6 +9,7 @@ This folder contains the slides used in the sessions:
 * [Machine learning (I)](https://github.com/d-tomas/transform4europe/blob/main/slides/machine_learning_i.pdf)
 * [Machine learning (II)](https://github.com/d-tomas/transform4europe/blob/main/slides/machine_learning_ii.pdf)
 * [Text mining (I)](https://github.com/d-tomas/transform4europe/blob/main/slides/text_mining_i.pdf)
+* [Text mining (II)](https://github.com/d-tomas/transform4europe/blob/main/slides/text_mining_ii.pdf)
 
 ## datasets
 This folder contains the datasets used in the sessions:
