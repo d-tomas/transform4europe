@@ -21,6 +21,7 @@ This folder contains the datasets used in the sessions:
 * [Divorce predictors](https://github.com/d-tomas/transform4europe/blob/main/datasets/divorce_predictors.csv)
 * [Iris](https://github.com/d-tomas/transform4europe/blob/main/datasets/iris.csv)
 * [Text file](https://github.com/d-tomas/transform4europe/blob/main/datasets/news.txt)
+* [Alice's adventures in Wonderland](https://github.com/d-tomas/transform4europe/blob/main/datasets/alices_adventures_in_wonderland.txt)
 
 ## notebooks
 This folder contains the *Jupyter notebooks* used in the sessions:
