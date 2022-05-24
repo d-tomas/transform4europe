@@ -33,3 +33,4 @@ This folder contains the *Jupyter notebooks* used in the sessions:
 * [Supervised learning](https://github.com/d-tomas/transform4europe/blob/main/notebooks/supervised_learning.ipynb)
 * [Unsupervised learning](https://github.com/d-tomas/transform4europe/blob/main/notebooks/unsupervised_learning.ipynb)
 * [Text mining basics](https://github.com/d-tomas/transform4europe/blob/main/notebooks/text_mining_basics.ipynb)
+* [Document representation](https://github.com/d-tomas/transform4europe/blob/main/notebooks/document_representation.ipynb)
